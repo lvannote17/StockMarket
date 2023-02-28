@@ -1,0 +1,6 @@
+yfinance
+bs4
+requests
+numpy
+pandas
+matplotlib
